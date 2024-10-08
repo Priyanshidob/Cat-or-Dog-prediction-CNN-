@@ -1,1 +1,1 @@
-# Cat-or-Dog-prediction-CNN-
+# Cat-or-Dog-prediction
